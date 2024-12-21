@@ -1,0 +1,11 @@
+@use '../base/mixins' as m;
+@use '../base/variables' as v;
+
+.contenido-menu {
+    text-align: justify;
+
+    @include m.tablet { 
+        @include m.grid(2, 2rem);    
+    }
+}
+
