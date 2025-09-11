@@ -1,6 +1,8 @@
 # ☕ Cafetería ☕
 
-**Cafetería** es una página web estática diseñada para presentar la imagen de una cafetería moderna. El sitio está desarrollado usando **HTML**, **CSS** y **SASS**, y ofrece una navegación fluida entre diferentes secciones como la página de inicio, el menú y la información sobre la empresa.
+<p align="justify">
+  **Cafetería** es una página web estática diseñada para presentar la imagen de una cafetería moderna. El sitio está desarrollado usando **HTML**, **CSS** y **SASS**, y ofrece una navegación fluida entre diferentes secciones como la página de inicio, el menú y la información sobre la empresa.
+</p>
 
 🔗 **[Ver página en vivo](https://cafeteria-davidpk8.netlify.app)**
 
