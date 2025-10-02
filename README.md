@@ -21,7 +21,7 @@
 
 - HTML5
 - CSS3
-- SASS (preprocesador de estilos)
+- SASS
 
 ---
 
